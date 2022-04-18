@@ -13,6 +13,9 @@
 <img src="" alt="project image">
 
 ### Important Links
-<a href="https://docs.google.com/document/d/1sJJKRmHoYlfxx2PBe-qIO_fIXKhwwT4l/edit?usp=sharing&ouid=104356587363715839705&rtpof=true&sd=true">IEEE Technical Paper</a>
-
+<ol>
+  <li><a href="https://docs.google.com/document/d/1sJJKRmHoYlfxx2PBe-qIO_fIXKhwwT4l/edit?usp=sharing&ouid=104356587363715839705&rtpof=true&sd=true">IEEE Technical Paper</a></li>
+  <li><a href="https://thingspeak.com/channels/1653926/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Temperature+Reading&type=column"> Temperature vs Time graph (ThingSpeak Output) </a></li>
+  <li><a href="https://thingspeak.com/channels/1653926/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Gas+Sensor+Reading&type=column&xaxis=Time&yaxismin=0"> Gas Sensor Reading (ThingSpeak Output) </a></li>
+</ol>
 
