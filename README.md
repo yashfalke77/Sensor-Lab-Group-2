@@ -2,6 +2,9 @@
 
 ## Topic: Smoke and Fire Detection System
 
+### Poster
+<img src="https://raw.githubusercontent.com/yashfalke77/Sensor-Lab-Group-2/main/sensor%20output.jpeg" height="400" alt="project image">
+
 ### Project Info
 
 <p>
