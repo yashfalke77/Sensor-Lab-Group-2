@@ -10,7 +10,7 @@
 
 ### Project Images
 
-<img src="https://raw.githubusercontent.com/yashfalke77/Sensor-Lab-Group-2/main/sensor%20output.jpeg" alt="project image">
+<img src="https://raw.githubusercontent.com/yashfalke77/Sensor-Lab-Group-2/main/sensor%20output.jpeg" width="100" height="75" alt="project image">
 
 ### Important Links
 <ol>
